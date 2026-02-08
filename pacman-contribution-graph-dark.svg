@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200">
+  <rect width="100%" height="100%" fill="#1E1E1E"/>
+  <rect x="10" y="10" width="10" height="10" fill="#76EEC6"/>
+  <rect x="20" y="10" width="10" height="10" fill="#76EEC6"/>
+  <rect x="30" y="10" width="10" height="10" fill="#76EEC6"/>
+  <rect x="40" y="10" width="10" height="10" fill="#76EEC6"/>
+  <rect x="10" y="20" width="10" height="10" fill="#1E1E1E"/>
+  <rect x="20" y="20" width="10" height="10" fill="#76EEC6"/>
+  <rect x="30" y="20" width="10" height="10" fill="#76EEC6"/>
+  <rect x="40" y="20" width="10" height="10" fill="#1E1E1E"/>
+  <!-- Add more squares for the contribution graph as needed -->
+</svg>
